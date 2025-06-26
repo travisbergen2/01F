@@ -1,0 +1,22 @@
+{
+  "name": "001Fractal List",
+ "logoURI": "https://github.com/travisbergen2/001fractal/blob/main/Prismatic%20_01F_%20in%20Cosmic%20Depth.png",
+  "keywords": ["fractal", "ethereal", "autistic", "experimental"],
+  "timestamp": "2025-06-24T20:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x965999e2d2eb366f413237fb6b660e3dbf7f816f",
+      "symbol": "01F",
+      "name": "001Fractal",
+      "decimals": 18,
+      "logoURI": "https://github.com/travisbergen2/001fractal/blob/main/Prismatic%20_01F_%20in%20Cosmic%20Depth.png"
+
+    }
+  ]
+}
